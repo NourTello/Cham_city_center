@@ -1,0 +1,26 @@
+{
+  "floors": "الطوابق",
+  "select_lang": "اختر اللغة",
+  "name":"الاسم",
+  "phone": "رقم الهاتف ",
+  "store": "محل",
+  "restaurant": "مطعم",
+  "add": "إضافة",
+  "add_store": "إضافة متجر",
+  "edit_store": "تعديل معلومات المتجر ",
+  "edit": "تعديل",
+  "delete": "حذف",
+  "investor_name": "اسم المستثمر",
+  "val_name": "ادخل اسم المحل ",
+  "val_phone": "ادخل رقم الهاتف",
+  "ok": "تأكيد",
+  "description": "الوصف",
+  "investor_name_val": "ادخل اسم المستثمر",
+  "success_state": "تم",
+  "loading_state": "جار التحميل ..",
+  "stores": "المحلات",
+  "restaurants": "المطاعم",
+  "all": "الكل",
+  "search": "بحث"
+
+}

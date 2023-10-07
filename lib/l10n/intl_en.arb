@@ -1,0 +1,27 @@
+{
+  "floors": "Floors",
+  "select_lang": "Select Language ",
+  "name":"Name",
+  "phone": "Phone number",
+  "store": "Store",
+  "restaurant": "Restaurant",
+  "add": "Add ",
+  "add_store": "Add store ",
+  "edit_store": "Edit store information ",
+  "edit": "Edit",
+  "delete": "Delete",
+  "investor_name": "Investor name",
+  "val_name": "Enter name ",
+  "val_phone": "Enter phone number",
+  "ok": "Confirm",
+  "description": "Description",
+  "investor_name_val": "Enter investor name ",
+  "success_state": "Done",
+  "loading_state": "Loading ...",
+  "stores": "Stores",
+  "restaurants": "Restaurants",
+  "all": "All",
+  "search": "search"
+
+
+}
